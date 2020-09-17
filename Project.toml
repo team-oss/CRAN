@@ -1,0 +1,9 @@
+name = "CRAN"
+uuid = "9bddfbb0-fc74-4139-8526-4909e395642c"
+authors = ["José Bayoán Santiago Calderón <jbs3hp@virginia.edu>"]
+version = "0.1.0"
+
+[deps]
+Cascadia = "54eefc05-d75b-58de-a785-1a3403f0919f"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+LibPQ = "194296ae-ab2e-5f79-8cd4-7183a0a5a0d1"
